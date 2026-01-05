@@ -1,7 +1,7 @@
 
-# 📱 BookAstros – Support
+# 📱 BookAstors – Support
 
-Welcome to the BookAstros Support 
+Welcome to the BookAstors Support 
 
 This page is created to help users with:
 - App-related issues  
@@ -11,7 +11,7 @@ This page is created to help users with:
 
 ---
 
-## 🧭 About BookAstros
+## 🧭 About BookAstors
 
 BookAstros is a mobile application designed to simplify salon discovery and appointment booking.  
 Users can find nearby salons, select services, choose preferred date and time slots, and book appointments with trusted professionals.
@@ -49,7 +49,7 @@ Please include:
 
 ## 💡 Feature Requests
 
-We’re always improving BookAstros!  
+We’re always improving BookAstors!  
 You can submit feature ideas by opening a new issue with the label **Feature Request**.
 
 ---
@@ -63,4 +63,4 @@ Please do not share sensitive personal or financial information in public issues
 
 ## © Copyright
 
-© BookAstros. All rights reserved.
+© BookAstors. All rights reserved.
