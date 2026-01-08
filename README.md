@@ -60,7 +60,21 @@ We respect user privacy.
 Please do not share sensitive personal or financial information in public issues.
 
 ---
+🗑️ Account Deletion – BookAstros
+---
+Users can request deletion of their BookAstros account and associated data at any time.
 
+How to delete your account
+Option 1: Delete directly from the app
+
+Open the BookAstros mobile app
+
+Go to Profile → Settings → Delete Account
+
+and your account is deleted
+
+Your account and associated data will be permanently deleted.
+📌 Subject: Delete My Account
 ## © Copyright
 
 © BookAstors. All rights reserved.
